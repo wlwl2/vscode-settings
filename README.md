@@ -2,9 +2,9 @@
 ```
 // Place your settings in this file to overwrite the default settings
 {
+  "workbench.colorTheme": "Visual Studio Light",
   // Controls the font size.
   "editor.fontSize": 14,
-  "workbench.colorTheme": "Visual Studio Light",
   // Is git enabled
   "git.enabled": false,
   // Path to the git executable
