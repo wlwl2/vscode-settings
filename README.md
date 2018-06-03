@@ -5,12 +5,6 @@
   "workbench.colorTheme": "Solarized Light",
   // Controls the font size.
   "editor.fontSize": 18,
-  /* Adjust the zoom level of the window.
-  The original size is 0 and each increment above (e.g. 1) or 
-  below (e.g. -1) represents zooming 20% larger or smaller. 
-  You can also enter decimals to adjust the zoom level with a 
-  finer granularity. */
-  "window.zoomLevel": 1.0,
   // The number of spaces a tab is equal to. This setting is overriden based on the file contents when `editor.detectIndentation` is on.
   "editor.tabSize": 2,
   // When opening a file, `editor.tabSize` and `editor.insertSpaces` will be detected based on the file contents.
