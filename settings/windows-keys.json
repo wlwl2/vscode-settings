@@ -30,7 +30,7 @@
     "when": "textInputFocus && !editorReadonly"
   },
   {
-    "key": "ctrl+f5",
+    "key": "alt+r",
     "command": "workbench.action.reloadWindow"
   },
   {
