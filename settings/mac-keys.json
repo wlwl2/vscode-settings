@@ -10,7 +10,7 @@
     "when": "textInputFocus && !editorReadonly"
   },
   {
-    "key": "shift+cmd+f5",
+    "key": "cmd+r",
     "command": "workbench.action.reloadWindow"
   },
   {
@@ -34,11 +34,45 @@
     "when": "editorTextFocus && !editorReadonly"
   },
   {
-    "key": "shift+cmd+g",
+    "key": "alt+3",
     "command": "workbench.view.scm"
   },
   {
     "key": "ctrl+shift+g",
     "command": "-workbench.view.scm"
+  },
+  {
+    "key": "alt+1",
+    "command": "workbench.view.explorer"
+  },
+  {
+    "key": "shift+cmd+e",
+    "command": "-workbench.view.explorer"
+  },
+  {
+    "key": "alt+2",
+    "command": "workbench.action.findInFiles",
+    "when": "!searchInputBoxFocus"
+  },
+  {
+    "key": "shift+cmd+f",
+    "command": "-workbench.action.findInFiles",
+    "when": "!searchInputBoxFocus"
+  },
+  {
+    "key": "alt+4",
+    "command": "workbench.view.debug"
+  },
+  {
+    "key": "shift+cmd+d",
+    "command": "-workbench.view.debug"
+  },
+  {
+    "key": "alt+5",
+    "command": "workbench.view.extensions"
+  },
+  {
+    "key": "shift+cmd+x",
+    "command": "-workbench.view.extensions"
   }
 ]
