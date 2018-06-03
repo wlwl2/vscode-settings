@@ -82,5 +82,15 @@
   {
     "key": "ctrl+`",
     "command": "-workbench.action.terminal.toggleTerminal"
+  },
+  {
+    "key": "alt+q",
+    "command": "editor.action.selectHighlights",
+    "when": "editorFocus"
+  },
+  {
+    "key": "ctrl+shift+l",
+    "command": "-editor.action.selectHighlights",
+    "when": "editorFocus"
   }
 ]
