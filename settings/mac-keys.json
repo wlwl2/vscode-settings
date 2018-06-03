@@ -74,5 +74,13 @@
   {
     "key": "shift+cmd+x",
     "command": "-workbench.view.extensions"
+  },
+  {
+    "key": "alt+t",
+    "command": "workbench.action.terminal.toggleTerminal"
+  },
+  {
+    "key": "ctrl+`",
+    "command": "-workbench.action.terminal.toggleTerminal"
   }
 ]
